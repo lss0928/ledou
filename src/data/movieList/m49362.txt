@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "49362",
+        "rating": "6.9",
+        "genres": "剧情",
+        "runtime": "null",
+        "language": "汉语普通话",
+        "title": "共和国之旗",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?52085",
+        "writers": "王兴东",
+        "film_locations": "中国",
+        "directors": "王冀邢,雷献禾",
+        "rating_count": "27",
+        "actors": "朱琳 Lin Zhu,谢钢 Gang Xie,王学圻 Xueqi Wang",
+        "plot_simple": "　　1949年解放前夕，曾联松还是上海一家通讯社的职员，当他看到报上征集新国旗的启示，就设计了一幅国旗图案寄到北京。没想到他设计的五星红旗被选定为新中国的国旗。半个世纪过去了，曾联松与所有的中国人一样伴随着共和国走过了艰辛的历程，所不同的是，他与这面旗更有许多特殊情感。",
+        "year": "1999",
+        "country": "中国",
+        "type": "null",
+        "release_date": "0",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

@@ -1,0 +1,15 @@
+<div id="movie" ng-controller="movieCtrl" class=" animated {{pageAnimate}}">
+	<div class="loop" loop-img>
+		<div class="swiper-wrapper">					
+			<!-- <a href="#" ng-repeat="obj in newsList" class="swiper-slide"><img src="{{obj.image}}" alt=""></a> -->
+			<a href="" class="swiper-slide"><img src="http://img3.douban.com/view/event_poster/median/public/10f53a2ad8b38c5.jpg" alt=""></a>
+			<a href="" class="swiper-slide"><img src="http://img3.douban.com/view/event_poster/median/public/4cdefe4f77918b1.jpg" alt=""></a>
+			<a href="" class="swiper-slide"><img src="http://img3.douban.com/view/event_poster/median/public/ac2d2961eccfeef.jpg" alt=""></a>
+		</div>
+		<div class="icon"></div>
+	</div>
+	<a ng-repeat="obj in movieList" ui-sref="home.movie_detail({'movieId':'{{obj.movieId}}'})" ng-click="changeSref('/home/movie')" >
+		<img ng-src="{{obj.pic_url}}"><span>{{obj.movieName}}</span>
+	</a>
+
+</div>

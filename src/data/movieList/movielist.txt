@@ -1,0 +1,137 @@
+{
+"reason":"success",
+
+"result":[
+			{"movieId":"216609",
+			"movieName":"诡八楼",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?190282",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583083"},
+
+			{"movieId":"216391",
+			"movieName":"摩登森林之美食总动员",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?190099",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583246"},
+
+			{"movieId":"216162",
+			"movieName":"龟兔再跑",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?189876",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583181"},
+
+			{"movieId":"215977",
+			"movieName":"森林孤影",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?189755",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583247"},
+
+			{"movieId":"215874",
+			"movieName":"从哪来，到哪去",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?189657",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583542"},
+
+			{"movieId":"215823",
+			"movieName":"有一天",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?189585",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583092"},
+
+			{"movieId":"215372",
+			"movieName":"兰辉",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?189152",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583163"},
+
+			{"movieId":"215365",
+			"movieName":"我是你的野蛮女友",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?189145",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583708"},
+
+			{"movieId":"215115",
+			"movieName":"触不可及",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?188831",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583077"},
+
+			{"movieId":"212024",
+			"movieName":"死亡派对",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?186036",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583084"},
+
+			{"movieId":"210860",
+			"movieName":"女生宿舍",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?127004",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583157"},
+
+			{"movieId":"209708",
+			"movieName":"不惧风暴",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?115595",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583080"},
+
+			{"movieId":"206446",
+			"movieName":"黎明之眼",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?83017",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583098"},
+
+			{"movieId":"205991",
+			"movieName":"一生一世",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?80150",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583079"},
+
+			{"movieId":"205238",
+			"movieName":"缘来是游戏",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?74873",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583162"},
+
+			{"movieId":"190893",
+			"movieName":"美女与野兽",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?142794",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583090"},
+
+			{"movieId":"190537",
+			"movieName":"敢死队3",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?138862",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583082"},
+
+			{"movieId":"183090",
+			"movieName":"空中营救",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?62317",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583076"},
+
+			{"movieId":"181874",
+			"movieName":"动物也疯狂",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?50678",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583243"},
+
+			{"movieId":"179197",
+			"movieName":"绝密跟踪",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?25364",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583081"},
+
+			{"movieId":"174132",
+			"movieName":"分歧者：异类觉醒",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?177585",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583102"},
+
+			{"movieId":"169864",
+			"movieName":"猩球崛起：黎明之战",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?141772",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583078"},
+
+			{"movieId":"128888",
+			"movieName":"挑战者联盟",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?155389",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583248"},
+
+			{"movieId":"49362",
+			"movieName":"共和国之旗",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?52085",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583541"},
+
+			{"movieId":"42201",
+			"movieName":"红旗谱",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?176976",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583536"},
+
+			{"movieId":"28678",
+			"movieName":"原色深海",
+			"pic_url":"http:\/\/v.juhe.cn\/movie\/img?63925",
+			"alt":"http:\/\/v.juhe.cn\/movie\/picurl?2583539"}
+		],
+
+"error_code":0
+}

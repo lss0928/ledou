@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "215115",
+        "rating": "5.1",
+        "genres": "爱情\/剧情\/悬疑",
+        "runtime": "100 分钟",
+        "language": "汉语普通话",
+        "title": "触不可及",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?188831",
+        "writers": "任宝茹,高璇",
+        "film_locations": "中国",
+        "directors": "赵宝刚",
+        "rating_count": "704",
+        "actors": "孙红雷 Honglei Sun,桂纶镁 Lun-mei Guey,方中信 Alex Fong,蒋勤勤 Qinqin Jiang",
+        "plot_simple": "影片故事背景跨越70年之久，讲述了一段战争时期的旷世恋情。《触不可及》将一位地下工作者与一位舞蹈老师错综的恋情诠释得淋漓尽致，烘托出在战乱时期中的一段谍恋故事。",
+        "year": "2014",
+        "country": "中国",
+        "type": "null",
+        "release_date": "20140919",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

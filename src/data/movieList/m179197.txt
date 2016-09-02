@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "179197",
+        "rating": "7.4",
+        "genres": "动作\/犯罪",
+        "runtime": "119 min",
+        "language": "韩语",
+        "title": "绝密跟踪",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?25364",
+        "writers": "曹义锡,欧健儿,...",
+        "film_locations": "韩国",
+        "directors": "曹义锡,金丙书",
+        "rating_count": "1370",
+        "actors": "郑雨盛 Woo-sung Jung,韩孝珠 Hyo-ju Han,薛景求 Kyung-gu Sol,李俊昊 Junho Lee",
+        "plot_simple": "人头攒动的闹市地铁早已暗潮涌动，接连发生多起轰动全城的银行武装劫案后，警方内部一群神秘的'监视者们'天眼围城，与暗中操纵一切的暗黑势力詹姆斯（郑雨盛饰）展开殊死较量。'猎鹰'黄班长（薛景求饰）、有超强监视天赋的美少女'花猪'、精英暖男'松鼠'各显神通步步紧逼，不料詹姆斯销声匿迹后如恶魔般卷土重来，生死博弈就在一瞬之间......",
+        "year": "2013",
+        "country": "韩国",
+        "type": "null",
+        "release_date": "20140916",
+        "also_known_as": "监视者们,监视,天眼跟踪.....(香港译名),监谍任务.....(台湾译名) "
+    },
+    "error_code": 0
+}

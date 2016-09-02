@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "205238",
+        "rating": "3.8",
+        "genres": "喜剧\/爱情",
+        "runtime": "109 分钟",
+        "language": "汉语普通话\/粤语",
+        "title": "缘来是游戏",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?74873",
+        "writers": "周小飞,陈勋奇,...",
+        "film_locations": "中国|中国香港",
+        "directors": "陈勋奇",
+        "rating_count": "882",
+        "actors": "孙坚 Oscar Sun ,林芮西 Jade Lin,马国明 Kenneth Ma,雨书",
+        "plot_simple": "富家子田嘉亮因与空姐周丹彤有过节而卧底周家拳馆以伺机复仇，本想将其追到手后甩掉，阴差阳错间，却发现自己喜欢上了周丹彤，在追求的过程中，他排除万难解决周家拳馆危机，最终，原本讨厌田嘉亮的周丹彤接受了他。",
+        "year": "2014",
+        "country": "中国|中国香港",
+        "type": "null",
+        "release_date": "20140919",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

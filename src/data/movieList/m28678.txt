@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "28678",
+        "rating": "8.1",
+        "genres": "短片\/纪录片",
+        "runtime": "40 min",
+        "language": "英语",
+        "title": "原色深海",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?63925",
+        "writers": "Roger Holzberg,Tim Cahill",
+        "film_locations": "美国",
+        "directors": "格雷格·麦克吉利弗雷",
+        "rating_count": "31",
+        "actors": "Bruce Robison,James A.R. McFarlane,Stephanie K. Martin,Francis Toribiong",
+        "plot_simple": "它在呈现给我们海底美丽与神奇的画面以外更加侧重表现了人类与大海生生相息的关系。我们欣赏到了海底的奇幻世界，而在这部的反映大海的影片中，我们主要看到的是人类是如何与大海息息相关，人类是如何在大海的怀抱中生存，我们会看到岸边那白色的帆船随着日出划向大海的深处，伴着日落静静的停靠在岸边，我们还会看到原来依靠大海生存的土著部落现在是如何依靠科技设备带着下一代去领略大海的无穷奥秘，我们更会看到缤纷夏日中，不同肤色不通种族的人们尽情享受大海带来的快乐。",
+        "year": "1995",
+        "country": "美国",
+        "type": "null",
+        "release_date": "19950201",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

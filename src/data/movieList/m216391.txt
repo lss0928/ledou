@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "216391",
+        "rating": "6.7",
+        "genres": "动画\/冒险",
+        "runtime": "89 min",
+        "language": "汉语普通话",
+        "title": "摩登森林之美食总动员",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?190099",
+        "writers": "舒展,孙征",
+        "film_locations": "中国",
+        "directors": "舒展",
+        "rating_count": "1282",
+        "actors": "冯骏骅 Junhua Feng,杨鸥 Ou Yang,沈达威 Da Wei Shen,倪春佳 Chunjia Ni",
+        "plot_simple": "摩登村的美食大赛在即，村子里的男女老少都进行积极的准备。肉食主义者旦旦、素食主义者元元和他们的好朋友小龙却在一场混乱的厨艺较量中，碰倒了“美食碑”，经历了一段神奇又魔幻的旅行，他们坠落在一个异次元世界——美食世界。 元元落在肉族城堡的祭坛上，阴差阳错地被肉族供奉为肉神。而旦旦和小龙邂逅了一个蔬菜精灵——萝卜小强。原来肉族试图统治整个美食世界，因此将其他食物赶尽杀绝。在萝卜小强的请求和指路下，旦旦和小龙开始了一场寻找元元、拯救美食王国的奇幻之旅。",
+        "year": "2014",
+        "country": "中国",
+        "type": "null",
+        "release_date": "20140905",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

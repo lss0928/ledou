@@ -1,0 +1,29 @@
+<!--活动-->
+<div id="active" ng-controller="activeCtrl" class=" animated {{pageAnimate}}">
+	<div class="loop" loop-img>
+		<div class="swiper-wrapper">					
+			<!-- <a href="#" ng-repeat="obj in newsList" class="swiper-slide"><img ng-src="{{obj.image}}" alt=""></a> -->
+			<a href="" class="swiper-slide"><img src="http://img3.douban.com/view/event_poster/median/public/10f53a2ad8b38c5.jpg" alt=""></a>
+			<a href="" class="swiper-slide"><img src="http://img3.douban.com/view/event_poster/median/public/4cdefe4f77918b1.jpg" alt=""></a>
+			<a href="" class="swiper-slide"><img src="http://img3.douban.com/view/event_poster/median/public/ac2d2961eccfeef.jpg" alt=""></a>
+		</div>
+		<div class="icon"></div>
+	</div>
+	
+	<div class="box" ng-repeat="obj in activeList">
+		<a ui-sref="home.active_detail({'idx':$index,'mine_active_id':{{obj.id}} })" ng-click="changeSref('/active')">
+			
+			<h3 class="tit">{{obj.title}}</h3>
+			<div class="content">
+				<ul>
+				 	<li class="time"><i></i><span>{{obj.begin_time}}--{{obj.end_time}}</span></li>
+				 	<li class="addr"><i></i><span>{{obj.address}}</span></li>
+				 	<li class="type"><i></i><span>类型:{{obj.category_name}}</span></li>
+				 	<li class="amount"><span>感兴趣:<b class="red">{{obj.wisher_count}}</b></span><span>参加:<b class="red">{{obj.participant_count}}</b></span></li>
+				</ul>
+			 	<img ng-src="{{obj.image}}">
+			</div>
+		</a>
+	</div>
+	
+</div>

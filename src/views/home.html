@@ -1,0 +1,22 @@
+<div id="home" class="container" ng-controller="homeCtrl" >
+		<!--头部-->
+		<header class="header">
+			<h3 id="headTit">{{headTit}}</h3>
+			<span class="arrange" ng-show="arrange">排版</span>
+			<a ui-sref="home.login" class="logout" ng-show="logout" ng-click="clickLogout()">注销</a>
+			<span class="back" ng-show="back" ng-click="clickBack()">返回</span>
+			<a ui-sref="home.login"class="backLogin" ng-show="backLogin">返回登录</a>
+			<a ui-sref="home.mine" class="back" ng-show="mine">&lt;我的</a>
+			<a href="#" class="collect" ng-show="collect">收藏</a>
+			
+		</header>
+		<!--ui-view-->
+		<div ui-view id="homeUiView">
+			
+		</div>
+		<!--页脚-->
+		<footer class="footer">
+			<a ng-repeat="v in footer" ui-sref="{{v.sref}}" ng-class="{true:'on',false:''}[v.addClass]" ng-click="clickFooter()"><i></i><span>{{v.nav}}</span></a>
+			
+		</footer>
+	</div>

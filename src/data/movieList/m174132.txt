@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "174132",
+        "rating": "6.7",
+        "genres": "动作\/冒险\/科幻",
+        "runtime": "139 分钟",
+        "language": "英语",
+        "title": "分歧者：异类觉醒",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?177585",
+        "writers": "伊万·多尔蒂,瓦内莎·泰勒,...",
+        "film_locations": "美国",
+        "directors": "尼尔·博格",
+        "rating_count": "3341",
+        "actors": "谢琳·伍德蕾 Shailene Woodley,提奥·詹姆斯 Theo James,凯特·温丝莱特 Kate Winslet,迈尔斯·特勒 Miles Teller",
+        "plot_simple": "未来社会的人类被分为五个派系，人们必须加入符合自己特征的派系，而翠丝却惊讶地发现她是“分歧者”，不属于任何派系。而分歧者这样的异类也将遭到杀害，翠丝必须争分夺秒躲避危难并扳倒邪恶势力。",
+        "year": "2014",
+        "country": "美国",
+        "type": "null",
+        "release_date": "20140908",
+        "also_known_as": "分歧者：异类叛逃.....(香港译名),分歧者.....(台湾译名) "
+    },
+    "error_code": 0
+}

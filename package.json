@@ -1,0 +1,34 @@
+{
+  "name": "douban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "gulp-clean": "*",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-minify-css": "*",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-ng-annotate": "",
+    "gulp-ngmin": "",
+    "gulp-rename": "^1.2.2",
+    "gulp-respond": "^1.0.0",
+    "gulp-rev": "",
+    "gulp-rev-collector": "",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "",
+    "imagemin-gifsicle": "^5.1.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-optipng": "^5.2.0",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "206446",
+        "rating": "5.8",
+        "genres": "剧情\/战争\/历史",
+        "runtime": "92分钟",
+        "language": "日语\/汉语普通话",
+        "title": "黎明之眼",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?83017",
+        "writers": "吕小龙",
+        "film_locations": "中国",
+        "directors": "吕小龙",
+        "rating_count": "42",
+        "actors": "郑佩佩 Pei-pei Cheng,原子鏸 Marsha Yuen,曾江 Kenneth Tsang,吕小龙 Bruce Le",
+        "plot_simple": "曾拍摄国内首部“慰安妇”题材电影的香港著名导演吕小龙继电影《地狱究竟有几层》和韩国电视剧《黎明的眼睛》之后，将重新拍摄末代慰安妇题材《黎明之眼》，再现并反思那段悲惨的历史，以电影艺术的视角审视侵略战争对女性的肉体与灵魂的伤害，将人们对战争与和平的认识水平提升到新的高度。",
+        "year": "2014",
+        "country": "中国",
+        "type": "null",
+        "release_date": "20140918",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

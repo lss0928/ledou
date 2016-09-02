@@ -1,0 +1,17 @@
+<div id="movieDetail" ng-controller="movieDetailCtrl" class="animated {{pageAnimate}}">
+	<div class="content">
+		<img ng-src="{{poster}}" alt="">
+		
+		<ul>
+			<li>评分：<span>{{rating}}</span><span>({{rating_count}}评论)</span></li>
+			<li><span>{{release_date}}</span></li>
+			<li><span>{{runtime}}</span></li>
+			<li><span>{{genres}}</span></li>
+			<li><span>{{film_locations}}|{{language}}</span></li>
+		</ul>
+	</div>
+	<h3 class="tit">制作人</h3>
+	<p class="producer">{{actors}}</p>
+	<h3 class="tit">电影情节</h3>
+	<p class="plot">{{plot_simple}}</p>
+</div>

@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "181874",
+        "rating": "6.7",
+        "genres": "动画",
+        "runtime": "97分钟",
+        "language": "北印度语\/英语",
+        "title": "动物也疯狂",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?50678",
+        "writers": "Nikhil Advani,Girish Dhamija,...",
+        "film_locations": "印度",
+        "directors": "Nikhil Advani",
+        "rating_count": "3468",
+        "actors": "加利·艾尔维斯 Cary Elwes,克里斯托弗·洛伊德 Christopher Lloyd,范妮莎·L·威廉姆斯 Vanessa Williams,汤姆·肯尼 Tom Kenny",
+        "plot_simple": "此片是一部倡导保护环境，保护动物为主题的影片，自然界中的一切都是相辅相成，缺一不可。环境被破环，动物被扼杀灭绝，人类的死期也不远了。在孟买圣雄甘地国家公园的原始森林里，一群动物欢快地生活在一起。可是突然有一天，人类的到来打破了这个森林的安静。轰隆而至的机器，威胁着动物们的生存环境，呦威的爸爸撒旦为了救呦威而被枪杀，为了拯救这个家园小豹呦威将大家聚在一起开会商讨对策。年少方刚的小猴巴酱，主张和人类打一场战争；德高望重的大熊巴嘎，则坚信可以通过和平对话的方式解决问题。最终他们决定去德里国家议会找人类论理；可是，他们当中没有谁能讲人类的语言，于是他们想到了会说话的鹦鹉亚历克斯。出乎意料的是，鹦鹉亚历克斯满足于优雅闲适的生活，不愿伸手帮忙。无计可施，他们只好把亚历克斯强带上路从而开始了他们的德里之旅……",
+        "year": "2012",
+        "country": "印度",
+        "type": "null",
+        "release_date": "20140905",
+        "also_known_as": "德里历险记 "
+    },
+    "error_code": 0
+}

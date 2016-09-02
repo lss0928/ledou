@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "210860",
+        "rating": "4.5",
+        "genres": "悬疑",
+        "runtime": "103",
+        "language": "汉语普通话",
+        "title": "女生宿舍",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?127004",
+        "writers": "梁婷",
+        "film_locations": "中国",
+        "directors": "梁婷",
+        "rating_count": "527",
+        "actors": "温心 Swan,成毅 Yi Cheng,赵多娜 Duo Na Zhao,尹正 Zheng Yi",
+        "plot_simple": "故事发生在上世纪三十年代医学院。新生入了一间尘封多年并有过“闹鬼”传说的415宿舍，舍友一个又一个离奇地死亡，学校陷入了诡异阴狸的气氛中……到底谁是真凶？扑朔迷离的故事内核、荷尔蒙青春偶像的视觉包装，悬疑推理探案摄制手法，为你掀开意想不到的结局，她们的故事，也许就是你身边的故事！",
+        "year": "2014",
+        "country": "中国",
+        "type": "null",
+        "release_date": "20140912",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

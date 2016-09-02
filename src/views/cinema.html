@@ -1,0 +1,12 @@
+<div id="cinema" ng-controller="cinemaCtrl" class=" animated {{pageAnimate}}">
+	<div class="box" ng-repeat="obj in cinemaList">
+		<a ui-sref="home.map({ cinemaId:{{obj.id}},cinemaName:'{{obj.cinemaName}}' })" ng-click="changeSref('/home/cinema')">
+			<h4 class="tit">{{obj.cinemaName}}</h4>
+			<p  class="addr">{{obj.address}}</p>
+			<p class="tel">{{obj.telephone}}</p>
+		</a>
+		
+	</div>
+	
+	
+</div>

@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "190893",
+        "rating": "7.2",
+        "genres": "奇幻\/爱情",
+        "runtime": "112 min",
+        "language": "法语",
+        "title": "美女与野兽",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?142794",
+        "writers": "克里斯多夫·甘斯,Sandra Vo-Anh",
+        "film_locations": "法国|德国",
+        "directors": "克里斯多夫·甘斯",
+        "rating_count": "894",
+        "actors": "文森·卡索 Vincent Cassel,蕾雅·赛杜 Léa Seydoux,安德烈·杜索里埃 André Dussollier,爱德华多·诺列加 Eduardo Noriega",
+        "plot_simple": "《美女与野兽》的故事讲述的是某一村庄的商人，有六个孩子，其中小女儿贝儿最为纯洁美貌，受尽父亲宠爱。一次商人在回家的路上迷了路，睡在森林的一个废弃的房子。第二天起来看到园子里有许多玫瑰，于是采了一朵想献给小女儿。这时出现一个怪兽，它要他把命献给它，或者是把他的一个女儿的命献给它。商人回去后将这件事告诉了三个女儿，但只有小女儿一人愿去。熟悉这个故事的人都知道，这位长相狰狞的怪兽其实是一位俊美的王子，他与美女之间随后上演了一出解除魔咒的美妙童话。",
+        "year": "2014",
+        "country": "法国|德国",
+        "type": "null",
+        "release_date": "20140912",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

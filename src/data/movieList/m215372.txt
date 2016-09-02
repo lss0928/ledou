@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "215372",
+        "rating": "-1",
+        "genres": "剧情",
+        "runtime": "null",
+        "language": "汉语普通话",
+        "title": "兰辉",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?189152",
+        "writers": "",
+        "film_locations": "中国",
+        "directors": "明振江,温德光",
+        "rating_count": "100",
+        "actors": "刘之冰 Zhibing Liu,李雪健 Xuejian Li,陶慧敏 Huiming Tao,洪晓熙 So-hee Hong",
+        "plot_simple": "通过电影文学的手法，再现北川已故副县长兰辉的感人事迹。",
+        "year": "2014",
+        "country": "中国",
+        "type": "null",
+        "release_date": "20140616",
+        "also_known_as": "唐家山之恋 "
+    },
+    "error_code": 0
+}

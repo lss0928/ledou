@@ -1,0 +1,30 @@
+<!--注册-->
+<div id="register" ng-controller="registerCtrl" class="animated {{pageAnimate}}">
+	<form action="" ng-submit="registerSub()">
+		<table>
+			<tr>
+				<td>用户名：</td>
+				<td><input type="text" ng-model="username" placeholder="请输入" ng-init="username='aaa333'"></td>
+			</tr>
+			<tr>
+				<td>密码：</td>
+				<td><input type="password" ng-model="pwd1" placeholder="请输入" ng-init="pwd1='aaa333'"></td>
+			</tr>
+			<tr>
+				<td>确认密码：</td>
+				<td><input type="password" ng-model="pwd2" placeholder="请输入" ng-init="pwd2='aaa333'"></td>
+			</tr>
+			<tr>
+				<td>邮箱</td>
+				<td><input type="email" ng-model="email" placeholder="请输入" ng-init="email='2509886327@qq.com'"></td>
+			</tr>
+			<tr>
+				<td>联系方式：</td>
+				<td><input type="tel" ng-model="tel" placeholder="请输入" ng-init="tel='18310887799'"></td>
+			</tr>
+			<tr>
+				<td colspan="2"><input type="submit" value="提交" id="register_do_btn" ng-click="register()"></td>
+			</tr>
+		</table>
+	</form>
+</div>

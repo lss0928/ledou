@@ -1,0 +1,20 @@
+<div id="login" ng-controller="loginCtrl" class="animated {{pageAnimate}}">
+	<form action="" ng-submit="loginSub()">
+		<table>
+			<tr>
+				<td>用户名：</td>
+				<td><input type="text" ng-model="username"></td>
+			</tr>
+			<tr>
+				<td>密码：</td>
+				<td><input type="password" ng-model="pwd"></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<button id="loginBtn">登录</button>
+					<a ui-sref="home.register" id="registerBtn">注册</a></td>				
+			</tr>
+			
+		</table>
+	</form>
+</div>

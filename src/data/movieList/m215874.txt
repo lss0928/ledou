@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "215874",
+        "rating": "6.4",
+        "genres": "剧情\/喜剧\/儿童",
+        "runtime": "95\/120(导演剪辑版)",
+        "language": "汉语普通话",
+        "title": "从哪来，到哪去",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?189657",
+        "writers": "吴琴",
+        "film_locations": "中国",
+        "directors": "吴琴",
+        "rating_count": "240",
+        "actors": "侯长荣 Changrong Hou,周柏臻 BoZhen Zhou,石峯 Feng Shi,许清宇 QingYu Xu",
+        "plot_simple": "　　一个沉默寡言的老人和一个机灵搞怪的小男孩意外互换灵魂之后，共同踏上寻亲之旅，一路经历欢笑与泪水，最终蜕变成长的温馨故事。影片细致体现了江南特有的温婉清雅的风景，朴素真淳的民俗文化，以及最简单温暖人心的质朴情感，“用心关爱老人，用爱陪伴儿童”的价值观将为观众带去一道清风，在笑声中体会生活的美好，在流泪时感悟亲情的珍贵……",
+        "year": "2014",
+        "country": "中国",
+        "type": "null",
+        "release_date": "20140916",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

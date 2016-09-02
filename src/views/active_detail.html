@@ -1,0 +1,37 @@
+<!--活动详情--> 
+<div id="activeDetail" ng-controller="activeDetailCtrl" class=" animated {{pageAnimate}}">
+	
+	<h4 class="tit">{{activeDetail.title}}</h4>	
+	<div class="content">
+		<img ng-src="{{activeDetail.image}}">
+		<ul>
+		 	<li class="time"><i></i><span>{{activeDetail.begin_time}}--{{activeDetail.end_time}}</span></li>
+		 	<li class="museum"><i></i><span>主办方:{{activeDetail.owner.name}}</span></li>
+		 	<li class="type"><i></i><span>类型:{{activeDetail.category_name}}</span></li>
+		 	
+		 	<li class="addr"><i></i><span>{{activeDetail.address}}</span><b>></b></li>
+		</ul>
+	 	
+	</div>
+	<!--活动照片-->
+	<h4 class="tit">活动照片</h4>
+	<ol id="photos">
+		
+		<li ng-repeat="photo in activeDetail.photos track by $index"><img ng-src="{{photo}}" alt=""></li>
+	</ol>
+	<!--活动介绍-->
+	<h4 class="tit">活动介绍</h4>
+	<ul class="introduce">
+		
+		<li ng-repeat="val in content track by $index">{{val}}</li>
+		<!-- <li><span>展期:</span><p>2014/4/30-2015/2/28(展期以此为准)</p></li>
+		<li><span>地点:</span><p>北16展厅</p></li>
+		<li><span>主办:</span>
+			<p>中国国家博物馆<br>意大利文化遗产活动和旅游部文化遗产意大利文化遗产活动和旅游部文化遗产产活动和旅游部文化遗产产活动和旅游部文化遗产
+			</p>
+		</li>
+		<li><span>门票:</span><p>30元（请。。）</p></li>
+		<li><span>展览详情:</span><p><a href="#">http://www.baidu.com</a></p></li>
+		<li><span>【提示】</span><p>展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照展厅内请勿拍照</p></li> -->
+	</ul>
+</div>

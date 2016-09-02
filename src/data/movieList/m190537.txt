@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "190537",
+        "rating": "7.1",
+        "genres": "动作\/冒险\/惊悚",
+        "runtime": "126 min",
+        "language": "英语",
+        "title": "敢死队3",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?138862",
+        "writers": "卡特琳·贝内迪特,达夫·卡拉汉姆,...",
+        "film_locations": "美国|法国",
+        "directors": "派特里克·休斯",
+        "rating_count": "4925",
+        "actors": "西尔维斯特·史泰龙 Sylvester Stallone,杰森·斯坦森 Jason Statham,梅尔·吉布森 Mel Gibson,李连杰 Jet Li",
+        "plot_simple": "　　在此次第三部的故事中，巴尼（史泰龙饰）与克里斯马斯（杰森·斯坦森 饰）领衔的敢死队将正面迎战昔日战友、如今的军火枭雄康拉德·斯通班克斯（梅尔·吉布森 饰）。斯通班克斯曾侥幸死里逃生过一次，现在他对敢死队下达了绝杀令。巴尼则另有一番打算：为迎战强敌，巴尼决定给敢死队注入新鲜血液，招募了更快更强的高科技战斗新生，搭配长枪硬炮的硬汉前辈，展开一番大决战。",
+        "year": "2014",
+        "country": "美国|法国",
+        "type": "null",
+        "release_date": "20140901",
+        "also_known_as": "轰天猛将3.....(香港译名),浴血任务3.....(台湾译名) "
+    },
+    "error_code": 0
+}

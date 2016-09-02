@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "209708",
+        "rating": "7.3",
+        "genres": "动作\/惊悚",
+        "runtime": "89 min",
+        "language": "英语",
+        "title": "不惧风暴",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?115595",
+        "writers": "约翰·斯韦特纳姆",
+        "film_locations": "美国",
+        "directors": "史蒂文·奎里",
+        "rating_count": "1469",
+        "actors": "理查德·阿米蒂奇 Richard Armitage,莎拉·韦恩·卡丽丝 Sarah Wayne Callies,马特·沃尔什 Matt Walsh,阿莉希亚·德布纳姆-凯里 Alycia Debnam Carey",
+        "plot_simple": "故事背景设定在一个名为西弗敦的小镇，在同一天中，史无前例的多个龙卷同时席卷这个小镇，在这些难以预测且极度致命的龙卷风群袭击下，整个小镇面临灭顶之灾。但专门研究龙卷风的追风人预测，更糟糕的情况还尚未真正到来。大多数居民都在紧迫寻找避难所，而这些追风者们却“逆向而行”赶到龙卷漩涡前，测试需要走多远才能拍到这千载难逢的极端时刻。",
+        "year": "2014",
+        "country": "美国",
+        "type": "null",
+        "release_date": "20140912",
+        "also_known_as": "飓风中心.....(香港译名),灭世风暴,直闯暴风圈.....(台湾译名) "
+    },
+    "error_code": 0
+}

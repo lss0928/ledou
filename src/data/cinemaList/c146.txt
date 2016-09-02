@@ -1,0 +1,187 @@
+{
+    "reason": "success",
+    "result": {
+        "cinema_info": {
+            "id": "146",
+            "name": "大地数字影院-北京延庆金锣湾",
+            "city": "北京",
+            "telephone": "010-60165114",
+            "address": "北京市延庆县妫水北街39号1幢H座首层（金锣湾商业中心）沃尔玛旁"
+        },
+        "lists": [{
+            "movieId": "169864",
+            "movieName": "猩球崛起：黎明之战",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583124",
+            "broadcast": [{
+                "hall": "3号厅",
+                "language": "",
+                "price": "",
+                "ticket_url": "",
+                "time": "15:30",
+                "type": "3D"
+            }]
+        },
+        {
+            "movieId": "183090",
+            "movieName": "空中营救",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583119",
+            "broadcast": [{
+                "hall": "2号厅",
+                "language": "英文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "10:00",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "英文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "11:00",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "英文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "13:00",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "英文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "15:00",
+                "type": "2D"
+            },
+            {
+                "hall": "2号厅",
+                "language": "英文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "17:40",
+                "type": "2D"
+            },
+            {
+                "hall": "2号厅",
+                "language": "英文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "19:40",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "190537",
+            "movieName": "敢死队3",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583121",
+            "broadcast": [{
+                "hall": "3号厅",
+                "language": "英文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "10:50",
+                "type": "2D"
+            },
+            {
+                "hall": "3号厅",
+                "language": "英文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "18:00",
+                "type": "2D"
+            },
+            {
+                "hall": "3号厅",
+                "language": "英文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "20:30",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "205991",
+            "movieName": "一生一世",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583120",
+            "broadcast": [{
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "12:00",
+                "type": "2D"
+            },
+            {
+                "hall": "3号厅",
+                "language": "中文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "13:30",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "中文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "17:00",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "中文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "20:50",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "215115",
+            "movieName": "触不可及",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583122",
+            "broadcast": [{
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "14:00",
+                "type": "2D"
+            },
+            {
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "15:50",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "中文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "19:00",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "216609",
+            "movieName": "诡八楼",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583123",
+            "broadcast": [{
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "",
+                "ticket_url": "",
+                "time": "21:40",
+                "type": "2D"
+            }]
+        }]
+    },
+    "error_code": 0
+}

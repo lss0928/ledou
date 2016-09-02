@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "205991",
+        "rating": "5.4",
+        "genres": "剧情\/爱情",
+        "runtime": "106 min",
+        "language": "汉语普通话\/粤语\/英语",
+        "title": "一生一世",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?80150",
+        "writers": "邹佡",
+        "film_locations": "中国",
+        "directors": "邹佡",
+        "rating_count": "4506",
+        "actors": "谢霆锋 Nicholas Tse,高圆圆 Yuanyuan Gao,秦昊 Qin Hao,杜海涛 Haitao Du",
+        "plot_simple": "1972年到2001年，安然和赵永远的爱情跨越了世纪。从两小无猜到情窦初开，当赵永远再次见到安然时，两人封存多年的友谊迅速转化成爱情。时光流转裹挟着他们闯入了新的世界，从北京到纽约，从凌乱纠葛到难舍难分，他们发现最难割舍的依然对彼此的情感……",
+        "year": "2014",
+        "country": "中国",
+        "type": "null",
+        "release_date": "20140905",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

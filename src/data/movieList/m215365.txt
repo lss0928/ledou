@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "215365",
+        "rating": "3",
+        "genres": "爱情\/动作\/喜剧",
+        "runtime": "94分钟",
+        "language": "汉语普通话",
+        "title": "我是你的野蛮女友",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?189145",
+        "writers": "郑立,王熙",
+        "film_locations": "中国",
+        "directors": "郑立",
+        "rating_count": "72",
+        "actors": "石天硕 Tianshuo Shi,莫熙儿 Xi-er Mo,曾江 Kenneth Tsang,林威 Wai Lam",
+        "plot_simple": "　　片中由莫熙儿所饰演的沈傲男是无数男子心中的动感女神。片中一众屌丝不惜血本,“不择手段”的追求沈傲男，只为博女神嫣然一笑。无奈，女神眼中只有云舒。在女神高冷范与屌丝倒贴范的强烈对比下，“野蛮女友”笑果百出。",
+        "year": "2014",
+        "country": "中国",
+        "type": "null",
+        "release_date": "20140912",
+        "also_known_as": " "
+    },
+    "error_code": 0
+}

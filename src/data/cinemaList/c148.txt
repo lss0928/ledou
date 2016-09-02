@@ -1,0 +1,232 @@
+{
+    "reason": "success",
+    "result": {
+        "cinema_info": {
+            "id": "148",
+            "name": "大地影院-北京海淀西三旗物美",
+            "city": "北京",
+            "telephone": "010-60603728",
+            "address": "北京海淀区悦秀路99号二层大地影院"
+        },
+        "lists": [{
+            "movieId": "169864",
+            "movieName": "猩球崛起：黎明之战",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583135",
+            "broadcast": [{
+                "hall": "",
+                "language": "",
+                "price": "3",
+                "ticket_url": "",
+                "time": "12:30",
+                "type": "3D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "3",
+                "ticket_url": "",
+                "time": "16:00",
+                "type": "3D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "3",
+                "ticket_url": "",
+                "time": "20:00",
+                "type": "3D"
+            }]
+        },
+        {
+            "movieId": "174132",
+            "movieName": "分歧者：异类觉醒",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583137",
+            "broadcast": [{
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "16:30",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "17:30",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "183090",
+            "movieName": "空中营救",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583133",
+            "broadcast": [{
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "10:20",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "11:20",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "12:40",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "13:20",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "15:20",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "17:20",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "19:30",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "21:30",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "190537",
+            "movieName": "敢死队3",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583136",
+            "broadcast": [{
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "11:30",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "15:00",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "",
+                "price": "2",
+                "ticket_url": "",
+                "time": "20:30",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "205991",
+            "movieName": "一生一世",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583139",
+            "broadcast": [{
+                "hall": "",
+                "language": "中文版",
+                "price": "2",
+                "ticket_url": "",
+                "time": "14:00",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "215115",
+            "movieName": "触不可及",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583134",
+            "broadcast": [{
+                "hall": "",
+                "language": "中文版",
+                "price": "3",
+                "ticket_url": "",
+                "time": "10:50",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "中文版",
+                "price": "3",
+                "ticket_url": "",
+                "time": "14:40",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "中文版",
+                "price": "3",
+                "ticket_url": "",
+                "time": "18:30",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "中文版",
+                "price": "3",
+                "ticket_url": "",
+                "time": "19:00",
+                "type": "2D"
+            },
+            {
+                "hall": "",
+                "language": "中文版",
+                "price": "3",
+                "ticket_url": "",
+                "time": "20:50",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "216609",
+            "movieName": "诡八楼",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583138",
+            "broadcast": [{
+                "hall": "",
+                "language": "中文版",
+                "price": "2",
+                "ticket_url": "",
+                "time": "22:20",
+                "type": "2D"
+            }]
+        }]
+    },
+    "error_code": 0
+}

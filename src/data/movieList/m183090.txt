@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "183090",
+        "rating": "7.5",
+        "genres": "动作\/悬疑\/惊悚",
+        "runtime": "106 min",
+        "language": "英语\/德语",
+        "title": "空中营救",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?62317",
+        "writers": "瑞恩·安格尔,约翰·W·理查德森,...",
+        "film_locations": "英国|法国|美国",
+        "directors": "佐米·希尔拉",
+        "rating_count": "2398",
+        "actors": "连姆·尼森 Liam Neeson,朱丽安·摩尔 Julianne Moore,斯科特·麦克奈利 Scoot McNairy,米歇尔·道克瑞 Michelle Dockery",
+        "plot_simple": "连姆·尼森饰演一位名叫比尔·马科斯（Bill Marks）的空警。在从纽约直飞伦敦的飞机上，他收到一系列神秘短信，要求政府向一个秘密账户转账1.5亿美元，否则就会每隔20分钟杀死一名航班上的乘客，正邪双方由此在四万英尺的高空上展开了智力与武力的双重对决。",
+        "year": "2014",
+        "country": "英国|法国|美国",
+        "type": "null",
+        "release_date": "20140919",
+        "also_known_as": "直航杀机.....(香港译名),空中救援.....(台湾译名),永不停歇,急速天劫 "
+    },
+    "error_code": 0
+}

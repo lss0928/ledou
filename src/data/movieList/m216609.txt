@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "216609",
+        "rating": "3.8",
+        "genres": "惊悚\/恐怖\/悬疑",
+        "runtime": "90分钟",
+        "language": "汉语普通话",
+        "title": "诡八楼",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?190282",
+        "writers": "张力",
+        "film_locations": "中国",
+        "directors": "张力",
+        "rating_count": "128",
+        "actors": "包小柏 Tino Bao,倪景阳 Jingyang Ni,常乐 Le Chang,董文军 Wenjun Dong",
+        "plot_simple": "提示：以下剧情含剧透 展开 影片《诡八楼》改编“北京四大鬼宅”之一的北京白塔寺福绥境胡同鬼八楼的诡异传说，也再次将1989年禁映电影《黑楼孤魂》重新搬上大银幕。影片讲述了李清（包小柏饰）为了创作独身来到一座60年代关押“牛鬼蛇神”的废弃孤楼。入住第三天李清仿佛被无形的力量牵引游荡在孤楼里，且只有他能看到别人看不到的诡异凶杀案，更恐怖的是他无论如何逃脱都无法逃离这座鬼楼。",
+        "year": "2014",
+        "country": "中国",
+        "type": "null",
+        "release_date": "20140919",
+        "also_known_as": "诡捌楼,枉死楼之诡八楼 "
+    },
+    "error_code": 0
+}

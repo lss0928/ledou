@@ -1,0 +1,25 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": {
+        "movieid": "169864",
+        "rating": "8.1",
+        "genres": "动作\/剧情\/科幻",
+        "runtime": "130 分钟",
+        "language": "英语\/美国手语",
+        "title": "猩球崛起：黎明之战",
+        "poster": "http:\/\/v.juhe.cn\/movie\/img?141772",
+        "writers": "马克·鲍姆贝克,里克·杰法,...",
+        "film_locations": "美国",
+        "directors": "马特·里夫斯",
+        "rating_count": "9941",
+        "actors": "安迪·瑟金斯 Andy Serkis,杰森·克拉克 Jason Clarke,加里·奥德曼 Gary Oldman,凯丽·拉塞尔 Keri Russell",
+        "plot_simple": "虽然《猩球崛起：黎明之战》设定在前作15年后，但故事却与首集结尾致命病毒弥漫全球密切相关，遭此横祸的人类只有一小部分幸存下来，而他们正威胁着凯撒统领的高度进化猿族大军，虽然双方一度达成了短暂却脆弱的和解，但为了争夺地球的绝对领导权，一场激烈的人猿大战一触即发。",
+        "year": "2014",
+        "country": "美国",
+        "type": "null",
+        "release_date": "20140829",
+        "also_known_as": "猿人争霸战：猩凶崛起.....(香港译名),猩球崛起：黎明的进击.....(台湾译名),猩球崛起2,猩球黎明 "
+    },
+    "error_code": 0
+}

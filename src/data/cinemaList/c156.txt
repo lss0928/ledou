@@ -1,0 +1,452 @@
+{
+    "reason": "success",
+    "result": {
+        "cinema_info": {
+            "id": "156",
+            "name": "保利国际影城北京缤纷城店",
+            "city": "北京",
+            "telephone": "010-80255600",
+            "address": "北京市大兴区金星西路3号绿地缤纷城4层 (微信号：daxingpoly)"
+        },
+        "lists": [{
+            "movieId": "169864",
+            "movieName": "猩球崛起：黎明之战",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583197",
+            "broadcast": [{
+                "hall": "3号POLYMAX厅",
+                "language": "英文版",
+                "price": "85",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556815\/",
+                "time": "14:25",
+                "type": "3D"
+            },
+            {
+                "hall": "3号POLYMAX厅",
+                "language": "中文版",
+                "price": "85",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556816\/",
+                "time": "16:50",
+                "type": "3D"
+            },
+            {
+                "hall": "3号POLYMAX厅",
+                "language": "英文版",
+                "price": "85",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556817\/",
+                "time": "19:15",
+                "type": "3D"
+            },
+            {
+                "hall": "3号POLYMAX厅",
+                "language": "英文版",
+                "price": "85",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556818\/",
+                "time": "21:35",
+                "type": "3D"
+            }]
+        },
+        {
+            "movieId": "179197",
+            "movieName": "绝密跟踪",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583201",
+            "broadcast": [{
+                "hall": "7号VIP厅",
+                "language": "中文版",
+                "price": "65",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556839\/",
+                "time": "14:55",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "183090",
+            "movieName": "空中营救",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583195",
+            "broadcast": [{
+                "hall": "1号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556803\/",
+                "time": "13:05",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556804\/",
+                "time": "15:05",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556805\/",
+                "time": "17:05",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556806\/",
+                "time": "19:05",
+                "type": "2D"
+            },
+            {
+                "hall": "6号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556833\/",
+                "time": "20:10",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556807\/",
+                "time": "21:05",
+                "type": "2D"
+            },
+            {
+                "hall": "6号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556834\/",
+                "time": "22:05",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "190537",
+            "movieName": "敢死队3",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583196",
+            "broadcast": [{
+                "hall": "6号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556835\/",
+                "time": "10:40",
+                "type": "2D"
+            },
+            {
+                "hall": "6号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556836\/",
+                "time": "13:10",
+                "type": "2D"
+            },
+            {
+                "hall": "6号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556837\/",
+                "time": "15:30",
+                "type": "2D"
+            },
+            {
+                "hall": "6号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556838\/",
+                "time": "17:50",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "190893",
+            "movieName": "美女与野兽",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583200",
+            "broadcast": [{
+                "hall": "5号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556826\/",
+                "time": "11:45",
+                "type": "2D"
+            },
+            {
+                "hall": "5号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556827\/",
+                "time": "14:10",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "205991",
+            "movieName": "一生一世",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583193",
+            "broadcast": [{
+                "hall": "8号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556844\/",
+                "time": "11:35",
+                "type": "2D"
+            },
+            {
+                "hall": "8号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556845\/",
+                "time": "13:35",
+                "type": "2D"
+            },
+            {
+                "hall": "8号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556846\/",
+                "time": "15:35",
+                "type": "2D"
+            },
+            {
+                "hall": "8号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556847\/",
+                "time": "17:35",
+                "type": "2D"
+            },
+            {
+                "hall": "7号VIP厅",
+                "language": "中文版",
+                "price": "65",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556840\/",
+                "time": "18:40",
+                "type": "2D"
+            },
+            {
+                "hall": "8号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556848\/",
+                "time": "19:35",
+                "type": "2D"
+            },
+            {
+                "hall": "7号VIP厅",
+                "language": "中文版",
+                "price": "65",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556841\/",
+                "time": "20:40",
+                "type": "2D"
+            },
+            {
+                "hall": "8号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556849\/",
+                "time": "21:40",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "206446",
+            "movieName": "黎明之眼",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583199",
+            "broadcast": [{
+                "hall": "5号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556828\/",
+                "time": "10:05",
+                "type": "2D"
+            },
+            {
+                "hall": "1号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556808\/",
+                "time": "22:55",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "209708",
+            "movieName": "不惧风暴",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583194",
+            "broadcast": [{
+                "hall": "4号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556819\/",
+                "time": "10:50",
+                "type": "2D"
+            },
+            {
+                "hall": "4号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556820\/",
+                "time": "12:45",
+                "type": "2D"
+            },
+            {
+                "hall": "4号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556821\/",
+                "time": "14:35",
+                "type": "2D"
+            },
+            {
+                "hall": "4号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556822\/",
+                "time": "16:25",
+                "type": "2D"
+            },
+            {
+                "hall": "4号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556823\/",
+                "time": "18:10",
+                "type": "2D"
+            },
+            {
+                "hall": "4号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556824\/",
+                "time": "19:50",
+                "type": "2D"
+            },
+            {
+                "hall": "4号厅",
+                "language": "英文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556825\/",
+                "time": "21:30",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "212024",
+            "movieName": "死亡派对",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583198",
+            "broadcast": [{
+                "hall": "8号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556850\/",
+                "time": "10:00",
+                "type": "2D"
+            },
+            {
+                "hall": "7号VIP厅",
+                "language": "中文版",
+                "price": "65",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556842\/",
+                "time": "22:30",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "215115",
+            "movieName": "触不可及",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583192",
+            "broadcast": [{
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556809\/",
+                "time": "11:25",
+                "type": "2D"
+            },
+            {
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556810\/",
+                "time": "13:30",
+                "type": "2D"
+            },
+            {
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556811\/",
+                "time": "15:25",
+                "type": "2D"
+            },
+            {
+                "hall": "5号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556829\/",
+                "time": "16:20",
+                "type": "2D"
+            },
+            {
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556812\/",
+                "time": "17:25",
+                "type": "2D"
+            },
+            {
+                "hall": "5号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556830\/",
+                "time": "18:20",
+                "type": "2D"
+            },
+            {
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556813\/",
+                "time": "19:20",
+                "type": "2D"
+            },
+            {
+                "hall": "5号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556831\/",
+                "time": "20:15",
+                "type": "2D"
+            },
+            {
+                "hall": "2号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556814\/",
+                "time": "21:15",
+                "type": "2D"
+            },
+            {
+                "hall": "5号厅",
+                "language": "中文版",
+                "price": "45",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556832\/",
+                "time": "22:10",
+                "type": "2D"
+            }]
+        },
+        {
+            "movieId": "216609",
+            "movieName": "诡八楼",
+            "pic_url": "http:\/\/v.juhe.cn\/movie\/picurl?2583202",
+            "broadcast": [{
+                "hall": "7号VIP厅",
+                "language": "中文版",
+                "price": "65",
+                "ticket_url": "http:\/\/piao.mtime.com\/onlineticket\/showtime\/107556843\/",
+                "time": "16:55",
+                "type": "2D"
+            }]
+        }]
+    },
+    "error_code": 0
+}
